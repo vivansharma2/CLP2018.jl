@@ -1,5 +1,8 @@
 module New_package
 
-# Write your package code here.
+x=5
+y=1
+
+x+y+8+21
 
 end
