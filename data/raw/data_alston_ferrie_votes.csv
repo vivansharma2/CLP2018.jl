@@ -1,0 +1,51 @@
+state_code,state,type,y1953,n1953,a1953,y1961,n1961,a1961,y1963,n1963,a1963
+AL,Alabama,S,8,1,0,7,0,2,5,1,2
+AK,Alaska,N,,,,1,0,0,0,1,0
+AZ,Arizona,B,2,0,0,1,0,1,3,0,0
+AR,Arkansas,S,5,0,1,6,0,0,4,0,0
+CA,California,B,22,4,4,23,7,0,21,15,2
+CO,Colorado,B,4,0,0,3,1,0,3,1,0
+CT,Connecticut,N,4,1,1,1,5,0,0,6,0
+DE,Delaware,O,0,0,1,0,1,0,0,1,0
+FL,Florida,S,8,0,0,7,1,0,9,3,0
+GA,Georgia,S,10,0,0,9,0,1,6,2,2
+HI,Hawaii,N,,,,0,0,1,0,2,0
+ID,Idaho,O,2,0,0,2,0,0,1,1,0
+IL,Illinois,O,10,10,5,6,19,0,6,11,7
+IN,Indiana,O,9,2,0,6,4,1,4,4,3
+IA,Iowa,O,4,2,2,4,4,0,2,5,0
+KS,Kansas,O,6,0,0,6,0,0,5,0,0
+KY,Kentucky,O,5,3,0,4,3,1,3,4,0
+LA,Louisiana,S,8,0,0,8,0,0,3,3,2
+ME,Maine,N,3,0,0,3,0,0,1,1,0
+MD,Maryland,N,4,3,0,3,4,0,3,5,0
+MA,Massachusetts,N,6,6,2,2,12,0,1,8,3
+MI,Michigan,B,11,6,1,9,7,2,10,5,4
+MN,Minnesota,O,5,4,0,7,2,0,3,4,1
+MS,Mississippi,S,5,0,1,5,0,1,4,0,1
+MO,Missouri,O,5,4,2,5,5,1,2,4,4
+MT,Montana,O,2,0,0,1,1,0,1,1,0
+NE,Nebraska,O,3,0,1,3,1,0,2,1,0
+NV,Nevada,O,1,0,0,0,1,0,0,1,0
+NH,New Hampshire,N,1,0,1,1,1,0,0,2,0
+NJ,New Jersey,N,5,8,1,5,8,1,2,11,2
+NM,New Mexico,B,2,0,0,2,0,0,1,0,1
+NY,New York,N,19,21,3,14,27,2,5,31,5
+NC,North Carolina,S,12,0,0,9,0,3,9,0,2
+ND,North Dakota,O,1,1,0,2,0,0,2,0,0
+OH,Ohio,O,14,8,1,14,8,1,9,13,2
+OK,Oklahoma,S,6,0,0,4,1,1,4,1,1
+OR,Oregon,O,3,0,1,3,1,0,3,1,0
+PA,Pennsylvania,N,11,14,5,6,23,1,3,22,2
+RI,Rhode Island,N,0,2,0,0,2,0,0,2,0
+SC,South Carolina,S,5,0,1,6,0,0,6,0,0
+SD,South Dakota,O,2,0,0,1,1,0,2,0,0
+TN,Tennessee,S,7,2,0,5,3,1,3,4,2
+TX,Texas,S,22,0,0,18,3,1,13,6,4
+UT,Utah,O,1,0,1,2,0,0,2,0,0
+VT,Vermont,N,0,0,1,1,0,0,0,1,0
+VA,Virginia,S,8,0,2,9,0,1,10,0,0
+WA,Washington,O,6,1,0,4,3,0,3,4,0
+WV,West Virginia,O,1,5,0,0,6,0,0,5,0
+WI,Wisconsin,O,5,4,1,5,5,0,3,6,1
+WY,Wyoming,O,1,0,0,1,0,0,1,0,0
