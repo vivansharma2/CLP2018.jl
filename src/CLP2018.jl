@@ -1,4 +1,4 @@
-module New_package
+module CLP2018
 
 using Test, HypothesisTests, Statistics, Plots, StatFiles, CSV, DataFrames, Dates, ReadStatTables, ReadStat, PanelDataTools, FixedEffectModels, GLM, RegressionTables, Distributions, PrettyTables, CategoricalArrays
 
