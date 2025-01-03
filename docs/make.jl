@@ -1,14 +1,14 @@
-using New_package
+using CLP2018
 using Documenter
 
-DocMeta.setdocmeta!(New_package, :DocTestSetup, :(using New_package); recursive=true)
+DocMeta.setdocmeta!(CLP2018, :DocTestSetup, :(using CLP2018); recursive=true)
 
 makedocs(;
-    modules=[New_package],
+    modules=[CLP2018],
     authors="Vivan Sharma <vivan.sharma@sciencespo.fr> and contributors",
-    sitename="New_package.jl",
+    sitename="CLP2018.jl",
     format=Documenter.HTML(;
-        canonical="https://vivansharma2.github.io/New_package.jl",
+        canonical="https://vivansharma2.github.io/CLP2018.jl",
         edit_link="main",
         assets=String[],
     ),
@@ -18,6 +18,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/vivansharma2/New_package.jl",
+    repo="github.com/vivansharma2/CLP2018.jl",
     devbranch="main",
 )

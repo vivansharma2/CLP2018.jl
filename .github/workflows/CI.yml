@@ -66,6 +66,6 @@ jobs:
         shell: julia --project=docs --color=yes {0}
         run: |
           using Documenter: DocMeta, doctest
-          using New_package
-          DocMeta.setdocmeta!(New_package, :DocTestSetup, :(using New_package); recursive=true)
-          doctest(New_package)
+          using CLP2018
+          DocMeta.setdocmeta!(CLP2018, :DocTestSetup, :(using CLP2018); recursive=true)
+          doctest(CLP2018)

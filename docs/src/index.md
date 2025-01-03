@@ -1,14 +1,14 @@
 ```@meta
-CurrentModule = New_package
+CurrentModule = CLP2018
 ```
 
-# New_package
+# CLP2018
 
-Documentation for [New_package](https://github.com/vivansharma2/New_package.jl).
+Documentation for [CLP2018](https://github.com/vivansharma2/CLP2018.jl).
 
 ```@index
 ```
 
 ```@autodocs
-Modules = [New_package]
+Modules = [CLP2018]
 ```
