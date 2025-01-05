@@ -101,3 +101,4 @@ plot!(m, df.Year, df.season_realwage_hourly_high,
 vline!([1962, 1965], linecolor=:black, linestyle=:dot, label = "")
 
 savefig("output/Figure2b.png")
+CSV.write("Data/clean/data_cleaned.csv", df)

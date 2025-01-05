@@ -164,3 +164,4 @@ vline!([1962, 1965], linecolor=:black, linestyle=:dot, label = "")
 
 combined_plot1 = plot(p1, p2, p3, layout=(3, 1), size=(800, 1400))
 savefig("output/Figure3b.png")
+CSV.write("Data/clean/data_cleaned.csv", df)
