@@ -8,6 +8,7 @@ using RegressionTables
 using HypothesisTests
 using Distributions
 using PrettyTables
+using CategoricalArrays
 
 include("Functions.jl")
 
